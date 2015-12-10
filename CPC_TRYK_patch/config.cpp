@@ -28,7 +28,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {};
+		requiredAddons[] = {"US_ESS_Glasses_tryk","TRYK_HRP"};
 	};
 };
 
